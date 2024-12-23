@@ -5,9 +5,6 @@ Modern-Ecommerce is enterprise open-source extensible ecommerce architecture. Wi
 ## System Architect
 ![image](https://cloud.githubusercontent.com/assets/1794584/19210154/073a9c9e-8d45-11e6-9da5-6db3170b3833.png)
 
-### Roadmap
-https://trello.com/b/A1OPzefs/cloud-modern-e-commerce-platform
-
 ## Key Features and Technologies  
 
 ### Spring 
@@ -19,34 +16,34 @@ Spring Data’s mission is to provide a familiar and consistent, Spring-based pr
 It makes it easy to use data access technologies, relational and non-relational databases, map-reduce frameworks, and cloud-based data services. This is an umbrella project which contains many subprojects that are specific to a given database. The projects are developed by working together with many of the companies and developers that are behind these exciting technologies.
 
 ### REST API
-REST (REpresentational State Transfer) is an architectural style, and an approach to communications that is often used in the development of Web services. Modern-Ecommerce core backend support fully REST API to allow integarte with any Frontend platform
+REST (REpresentational State Transfer) is an architectural style and approach to communications that is often used in the development of Web services. Modern-Ecommerce core backend supports full REST API to allow integration with any Frontend platform
 
-### Mutiple vendor/store support
-Modern-Ecommerce support mutiple Store/vendor, ready to run enterprise e-commerce. Check out more detail with database design https://github.com/JohnnyLe/Modern-Ecommerce/issues/1
+### Multiple vendor/store support
+Modern e-commerce supports multiple Store/vendors, and ready-to-run enterprise e-commerce. Check out more details with database design https://github.com/JohnnyLe/Modern-Ecommerce/issues/1
 
-### Mutiple modern themes frontend support
-Modern-Ecommerce support mutiple theme for frontend built with Bootstrap/AngularJS, modern responsive. Easy customize
+### Multiple modern themes frontend support
+Modern e-commerce supports multiple themes for the front end built with Bootstrap/AngularJS, which is modern and responsive. Easy customize
 
 ### Modern admin dashboard support
-Modern-Ecommerce support dashboard admin built with Bootstrap/AngularJS, modern responsive. Easy customize.
+Modern-ecommerce support dashboard admin built with Bootstrap/AngularJS, which is modern responsive. Easy customize.
 
 ### Online Payment
-Support Paypal, Stripe integration
+Support Paypal and Stripe integration
 
 
 ### Search
 Flexible domain search capabilities in Modern-Ecommerce are provided through integration
-with elasticsearch https://www.elastic.co/
+with Elasticsearch https://www.elastic.co/
 
 ### Task Scheduling
-Scheduling of repetitive tasks are offered through the spring scheduler service
+Scheduling of repetitive tasks is offered through the spring scheduler service
 
 ### Email
-Email support is provided throughout the Modern-Ecommerce framework in either synchronous 
+Email support is provided throughout the E-commerce framework in either synchronous 
 or asynchronous. As well as support Amazon Mail service SES
 
 ### Extendible Design
-Modern-Ecommerce is designed from the ground-up with extensibility in mind. 
+Modern-Ecommerce is designed from the ground up with extensibility in mind. 
 
 ### Release
 N/A (On developing)
